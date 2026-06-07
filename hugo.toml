@@ -9,7 +9,7 @@ paginate = 10
 
 [params]
   author = "Sameer"
-  description = ""
+  description = "Personal Notes"
   ShowReadingTime = true
   ShowShareButtons = false
   ShowPostNavLinks = true
@@ -40,7 +40,7 @@ paginate = 10
   identifier = "whoami"
   name = "whoami"
   url = "/whoami/"
-  weight = 10
+  weight = 9
 
 [[menu.main]]
   identifier = "uses"
@@ -50,12 +50,12 @@ paginate = 10
 
 
 
-[[menu.main]]
-  identifier = "cv"
-  name = "cv"
-  url = "/cv/"
-  weight = 10
-
+# [[menu.main]]
+#   identifier = "cv"
+#   name = "cv"
+#   url = "/cv/"
+#   weight = 10
+#
 
 [[menu.main]]
   identifier = "tags"
