@@ -13,11 +13,15 @@ paginate = 10
   ShowReadingTime = true
   ShowShareButtons = false
   ShowPostNavLinks = true
-  ShowBreadCrumbs = true
+  # ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   ShowToc = true
   TocOpen = false
   math = true
+  env = "production"
+
+[params.analytics.google]
+SiteVerificationTag = "G-S4GWRXNN8H"
 
 [params.homeInfoParams]
   Title = "Hi, I'm Sameer"
