@@ -20,9 +20,6 @@ paginate = 10
   math = true
   env = "production"
 
-[params.analytics.google]
-SiteVerificationTag = "G-S4GWRXNN8H"
-
 [params.homeInfoParams]
   Title = "Hi, I'm Sameer"
   Content = "Undergraduate @ IIT Kanpur"
