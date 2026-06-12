@@ -3,6 +3,7 @@ locale = "en-us"
 title = "sayymeer"
 theme = "PaperMod"
 paginate = 10
+enableRobotsTXT = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
