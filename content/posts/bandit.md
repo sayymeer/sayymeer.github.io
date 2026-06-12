@@ -1,8 +1,8 @@
 ---
-title: "Writeup Bandit | Overthewire"
+title: "Writeup Bandit - Overthewire"
 data: 2026-06-03
 tags: ["writeup"]
-description: "Starting this blog to document my learning."
+description: "Trying Bandit"
 ---
 
 Giving [Bandit](https://overthewire.org/wargames/bandit) a try (for learning to read _man_ and _info_ pages)

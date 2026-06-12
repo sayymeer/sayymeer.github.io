@@ -31,3 +31,5 @@ Below is a list of software I use day to day:
 - _zathura_ for pdf viewing.
 - _yazi_ as file-manager, with _kitty_ to see previews.
 - I also love to use *tui*s like _lazygit_ and _lazydocker_.
+
+> You can find my config files [here](https://github.com/sayymeer/dotfiles)

@@ -9,7 +9,7 @@ paginate = 10
 
 [params]
   author = "Sameer"
-  description = "Personal Notes"
+  description = ""
   ShowReadingTime = true
   ShowShareButtons = false
   ShowPostNavLinks = true
@@ -30,7 +30,7 @@ paginate = 10
 
 [[params.socialIcons]]
   name = "linkedin"
-  url = "https://www.linkedin.com/in/sameeryadav08/"
+  url = "https://www.linkedin.com/in/sayymeer"
 
 
 [taxonomies]
