@@ -7,10 +7,10 @@ enableRobotsTXT = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
-
+  
 [params]
-  author = "Sameer"
-  description = ""
+  author = "sayymeer"
+  description = "I am a software developer, intersted in systems and cybersecurity."
   ShowReadingTime = true
   ShowShareButtons = false
   ShowPostNavLinks = true
@@ -20,6 +20,7 @@ enableRobotsTXT = true
   TocOpen = false
   math = true
   env = "production"
+  mainSections = ["posts", "editorials"]
 
 [params.homeInfoParams]
   Title = "Hi, I'm Sameer"
@@ -48,15 +49,6 @@ enableRobotsTXT = true
   name = "uses"
   url = "/uses/"
   weight = 10
-
-
-
-# [[menu.main]]
-#   identifier = "cv"
-#   name = "cv"
-#   url = "/cv/"
-#   weight = 10
-#
 
 [[menu.main]]
   identifier = "tags"

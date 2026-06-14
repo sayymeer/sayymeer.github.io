@@ -1,5 +1,5 @@
 ---
-title: "Set 1 Cryptopals Writeup"
+title: "Cryptopals Set 1: Basics - Writeup"
 data: 2026-06-11
 tags: ["writeup"]
 description: "Writeup for Cryptopals Set 1 in python"

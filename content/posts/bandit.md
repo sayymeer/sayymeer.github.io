@@ -1,5 +1,5 @@
 ---
-title: "Writeup Bandit - Overthewire"
+title: "Overthewire Bandit - Writeup"
 data: 2026-06-03
 tags: ["writeup"]
 description: "Trying Bandit"
