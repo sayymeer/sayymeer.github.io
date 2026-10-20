@@ -24,7 +24,7 @@ enableRobotsTXT = true
 
 [params.homeInfoParams]
   Title = "Hi, I'm Sameer"
-  Content = "Undergraduate @ IIT Kanpur"
+  Content = "Engineer @ Intuit"
 
 [[params.socialIcons]]
   name = "github"
